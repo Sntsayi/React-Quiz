@@ -6,7 +6,7 @@
 #### I used Context api to have a better state management 
 #### styles way : pureCss
 #### used fake api => json-server
-##### How to use this project : in terminal write firsr : npm i , second : npm ruu server (for fake api) , third : npm start
+##### How to use this project : in terminal write firsr : npm i , second : npm run server (for fake api) , third : npm start
 
 <!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
