@@ -1,6 +1,6 @@
 #Create by Create-react-app => React-Quiz-app
 
-#### I saw this project in Jonas Schmedtmann React course and i craete it from zero and also develop it and add some features like another context api and dark/light mode and responsives
+#### I saw this project in Jonas Schmedtmann ReactJs course and i craete it from zero and also develop it and add some features like another context api and dark/light mode and responsives all pages
 
 #### Hooks i used in this project: useState() / useEffect() / useReducer() ...
 
