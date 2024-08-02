@@ -3,9 +3,8 @@
 #### I saw this project in Jonas Schmedtmann ReactJs course and i craete it from zero and also develop it and add some features like another context api and dark/light mode and responsives all pages
 
 #### Hooks i used in this project: useState() / useEffect() / useReducer() ...
-#### I uses Context api to have a better state management
+#### I used Context api to have a better state management ,, and used fake api => json-server
 #### styles way : pureCss
-#### Used fake api => json-server
 ##### How to use this project : in terminal write firsr : npm i , second : npm ruu server (for fake api) , third : npm start
 
 <!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
